@@ -1,5 +1,5 @@
 [project]
-name = "rest-client"
+name = "restclient"
 version = "0.1.0"
 description = "rest client for testing with log"
 authors = [
